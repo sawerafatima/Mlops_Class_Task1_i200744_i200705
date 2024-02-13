@@ -1,0 +1,2 @@
+# Mlops_Class_Task1_i200744_i200705
+Class Activity maintaining github repository
