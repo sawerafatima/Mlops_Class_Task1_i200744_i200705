@@ -1,0 +1,23 @@
+# Dummy data for project requirements
+
+# Web frameworks
+fake-django>=1.0.0,<2.0.0
+fake-flask>=0.5.0,<1.0.0
+
+# Data analysis
+fake-pandas>=0.5.0,<1.0.0
+fake-numpy>=1.5.0,<2.0.0
+
+# Machine learning
+fake-scikit-learn>=0.5.0,<1.0.0
+fake-tensorflow>=3.0.0,<4.0.0
+
+# Utilities
+fake-requests>=0.5.0,<1.0.0
+fake-jsonfield>=0.5.0,<1.0.0
+
+# Testing
+fake-pytest>=7.0.0,<8.0.0
+fake-coverage>=7.0.0,<8.0.0
+
+# ... (continue with other relevant packages)
